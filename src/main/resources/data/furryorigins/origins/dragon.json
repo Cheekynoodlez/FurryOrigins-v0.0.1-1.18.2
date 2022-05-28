@@ -1,0 +1,21 @@
+{
+  "powers": [
+    "origins:carnivore",
+    "origins:natural_armor",
+    "origins:launch_into_air",
+    "origins:fresh_air",
+    "furryorigins:fireball",
+    "origins:flame_particles",
+    "origins:fall_immunity",
+    "origins:elytra",
+    "origins:damage_from_snowballs",
+    "origins:claustrophobia",
+    "origins:more_exhaustion",
+    "origins:no_shield"
+  ],
+  "icon": {
+    "item": "minecraft:dragon_head"
+  },
+  "order": 1,
+  "impact": 3
+}

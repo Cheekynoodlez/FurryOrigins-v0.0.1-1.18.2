@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#g#",
+    "ccc"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "furryorigins:ram_stick_8g"
+  }
+}

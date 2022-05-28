@@ -1,0 +1,15 @@
+{
+  "powers": [
+    "origins:carnivore",
+    "origins:claustrophobia",
+    "origins:sprint_jump",
+    "origins:hotblooded",
+    "furryorigins:speedy",
+    "origins:more_exhaustion"
+  ],
+  "icon": {
+    "item": "minecraft:beef"
+  },
+  "order": 1,
+  "impact": 2
+}

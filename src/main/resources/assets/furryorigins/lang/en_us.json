@@ -1,0 +1,42 @@
+{
+  "item.furryorigins.ram_stick_4g": "Ram Stick 4G",
+  "item.furryorigins.ram_stick_8g": "Ram Stick 8G",
+  "item.furryorigins.ram_stick_16g": "Ram Stick 16G",
+  "item.furryorigins.sergal_cheese": "Sergal Cheese",
+
+  "sergal_merp": "Sergal Merp",
+  "furryorigins:sergal.merp": "Sergal Merp",
+
+  "origin.furryorigins.dragon.name": "Dragon",
+  "origin.furryorigins.reptilian.name": "Reptilian",
+  "origin.furryorigins.protogen.name": "Protogen",
+  "origin.furryorigins.sergal.name": "Sergal",
+  "origin.furryorigins.wolf.name": "Wolf",
+
+  "origin.furryorigins.dragon.description": "Become a Dragon! You can soar, shoot fireballs, and more, but it comes at a cost!",
+  "origin.furryorigins.protogen.description": "Big fluffy toasters that can eat Ram sticks!",
+  "origin.furryorigins.reptilian.description": "A general reptile origin! Climb walls, and have protective scales!",
+  "origin.furryorigins.sergal.description": "Big fluffy cheese that can run fast and jump high!",
+  "origin.furryorigins.wolf.description": "Fast, carnivorous, claustrophobic, and also fluffy!",
+
+  "power.furryorigins.cold_blooded.name": "Cold Blooded",
+  "power.furryorigins.fireball.name": "Fireball",
+  "power.furryorigins.speedy.name": "Speedy",
+  "power.furryorigins.cybernetic_diet_4g.name": "Cybernetic Diet",
+  "power.furryorigins.cybernetic_diet_8g.name": "",
+  "power.furryorigins.cybernetic_diet_16g.name": "",
+
+  "power.furryorigins.lays_cheese.name": "In Developement",
+  "power.furryorigins.sergal_merp.name": "Merp!",
+
+  "power.furryorigins.cold_blooded.description": "You move slowly in colder, darker areas.",
+  "power.furryorigins.fireball.description": "Shoot fireballs!",
+  "power.furryorigins.speedy.description": "You're extra fast!",
+  "power.furryorigins.cybernetic_diet_4g.description": "You can eat ram, and it gives you special effects!",
+  "power.furryorigins.cybernetic_diet_8g.description": "",
+  "power.furryorigins.cybernetic_diet_16g.description": "",
+
+  "power.furryorigins.lays_cheese.description": "In Developement",
+  "power.furryorigins.sergal_merp.description": "Merp!"
+
+}

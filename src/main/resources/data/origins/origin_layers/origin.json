@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "order": 0,
+  "enabled": true,
+  "origins": [
+    "furryorigins:protogen",
+    "furryorigins:sergal",
+    "furryorigins:dragon",
+    "furryorigins:wolf",
+    "furryorigins:reptilian"
+  ],
+  "allow_random": true,
+  "exclude_random": [
+    "origins:human"
+  ],
+  "allow_random_unchoosable": false,
+  "hidden": false
+}

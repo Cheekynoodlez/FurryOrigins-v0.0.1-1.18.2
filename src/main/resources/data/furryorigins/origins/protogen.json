@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "furryorigins:cybernetic_diet_4g",
+    "furryorigins:cybernetic_diet_8g",
+    "furryorigins:cybernetic_diet_16g",
+    "origins:water_vulnerability",
+    "origins:natural_armor"
+  ],
+  "icon": {
+    "item": "furryorigins:ram_stick_16g"
+  },
+  "order": 1,
+  "impact": 2
+}

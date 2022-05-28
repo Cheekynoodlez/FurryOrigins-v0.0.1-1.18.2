@@ -1,0 +1,14 @@
+{
+  "powers": [
+  "furryorigins:cold_blooded",
+    "origins:natural_armor",
+    "origins:water_vision",
+    "origins:climbing",
+    "origins:more_kinetic_damage"
+  ],
+  "icon": {
+    "item": "minecraft:scute"
+  },
+  "order": 1,
+  "impact": 2
+}

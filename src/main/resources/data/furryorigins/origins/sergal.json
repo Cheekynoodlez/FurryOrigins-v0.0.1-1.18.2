@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "furryorigins:speedy",
+    "furryorigins:sergal_merp",
+    "origins:weak_arms",
+    "origins:sprint_jump"
+  ],
+  "icon": {
+    "item": "furryorigins:sergal_cheese"
+  },
+  "order": 1,
+  "impact": 1
+}
